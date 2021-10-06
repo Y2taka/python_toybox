@@ -6,7 +6,7 @@ from pathlib import Path
 
 FILE_NAME = 'output_'
 EXTENSION = '.txt'
-FILE_SEPARATTION = '\n\n\n'
+FILE_SEPARATTION = '\n\n\n'  # separation for each text of file.
 
 args = sys.argv
 
